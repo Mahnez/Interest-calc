@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528096653 source:c:\users\laste\desktop\c++\interest calculator\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	<stdio.h>
+
